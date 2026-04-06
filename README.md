@@ -1,16 +1,18 @@
-## Hi there 👋
+# Iļja Molčanovs
 
-<!--
-**Sp0ozy/Sp0ozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fintech student at Banku Augstskola | CS exchange @ TH Ulm
 
-Here are some ideas to get you started:
+Interested in data science, ML, and quantitative finance.
+Currently looking for a data science or risk analytics internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python — data pipelines, automation, ML
+- Machine learning — supervised/unsupervised, feature engineering, model evaluation
+- AWS — EC2, Elastic Beanstalk deployments
+- Tools — Playwright, BeautifulSoup, FastAPI, Make
+
+## Currently working on
+- Credit risk scoring model with real financial data
+
+## Contact
+ilja.molcanovs@gmail.com | linkedin.com/in/molcanovs
