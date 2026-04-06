@@ -2,10 +2,11 @@
 
 Fintech student at Banku Augstskola | CS exchange @ TH Ulm
 
-Interested in data science, ML, and quantitative finance.
-Currently building a credit risk scoring model using real financial data.
-Currently completing a Machine Learning course at FITA, covering classification, regression, and ensemble methods.
-Actively looking for a data science or risk analytics internship.
+Interested in data science, ML, and quantitative finance.  
+Currently building a credit risk scoring model using real financial data.  
+Currently completing a Machine Learning course at FITA, covering classification, regression, and ensemble methods. 
+
+**Actively looking for a data science or risk analytics internship.**
 ## Skills
 - Python - data pipelines, automation, ML
 - Machine learning - supervised/unsupervised, feature engineering, model evaluation
