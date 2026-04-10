@@ -6,7 +6,7 @@ Interested in data science, ML, and quantitative finance.
 Currently building a factor-based investing model on Baltic equities.  
 Currently completing a Machine Learning course at FITA, covering classification, regression, and ensemble methods. 
 
-**Actively looking for a data science or internship.**
+**Actively looking for a data science internship.**
 ## Skills
 - Python - data pipelines, automation, ML
 - Machine learning - supervised/unsupervised, feature engineering, model evaluation
