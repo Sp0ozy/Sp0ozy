@@ -13,10 +13,5 @@ Currently completing a Machine Learning course at FITA, covering classification,
 - AWS - EC2, Elastic Beanstalk deployments
 - Tools - Playwright, BeautifulSoup, FastAPI, MongoDB, Docker
 
-## Projects
-- **Student Performance Predictor** - end-to-end ML app, 10 models compared, deployed to AWS
-- **Network Security Classifier** - phishing/attack detection pipeline with MongoDB and Docker
-- **BMW Listings Scraper** - scraped real listings from ss.lv, Streamlit dashboard
-
 ## Contact
 ilja.molcanovs@gmail.com | [linkedin.com/in/molcanovs](https://linkedin.com/in/molcanovs)
