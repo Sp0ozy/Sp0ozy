@@ -1,17 +1,5 @@
-# Iļja Molčanovs
+Ilja Molčanovs
 
-Fintech student at Banku Augstskola | CS exchange @ TH Ulm
+Second-year student in Riga on a joint RTU / Banku augstskola programme, half quantitative finance and half software engineering. I work on power markets and prediction markets, and I write the code that tests whether a signal is actually there. Currently at Aarhus University for a summer school on the economics of sports gambling and prediction markets. Python, pandas, statsmodels, SQL, FastAPI.
 
-Interested in data science, ML, and quantitative finance.  
-Currently building a factor-based investing model on Baltic equities.  
-Currently completing a Machine Learning course at FITA, covering classification, regression, and ensemble methods. 
-
-**Actively looking for a data science internship.**
-## Skills
-- Python - data pipelines, automation, ML
-- Machine learning - supervised/unsupervised, feature engineering, model evaluation
-- AWS - EC2, Elastic Beanstalk deployments
-- Tools - Playwright, BeautifulSoup, FastAPI, MongoDB, Docker
-
-## Contact
-ilja.molcanovs@gmail.com | [linkedin.com/in/molcanovs](https://linkedin.com/in/molcanovs)
+📫 ilja.molcanovs@gmail.com
